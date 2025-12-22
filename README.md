@@ -14,7 +14,7 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 * **SVD (Singular Value Decomposition) :** Utilisation de la factorisation de matrice pour le filtrage collaboratif et la prédiction de préférences.
 * **Stack :** Python, Scikit-Learn, Pandas, DuckDb.
 
-**[Accéder au Code sur GitHub](https://github.com/BYRic-F/project_reco_movie_streamlit.git)** 
+**[Accéder au code sur GitHub](https://github.com/BYRic-F/project_reco_movie_streamlit.git)** 
 
 **[Tester l'application sur Streamlit](https://byric-f-project-reco-movie-streamlit-app-3pm0kb.streamlit.app/)**
 
