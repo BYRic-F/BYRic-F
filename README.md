@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Frédéric Bayen
+# 👋 Bonjour, moi c'est Frédéric Bayen !
 
  **Data Analyst en formation à la Wild Code School**
 
