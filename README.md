@@ -6,7 +6,7 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 
 ---
 
-## Projet majeur : Système de recommandation de Films
+## Projet majeur : Système de recommandation de films
 *Le projet le plus complet de mon cursus à la Wild Code School.*
 
 * **Natural Language Processing (NLP) :** Traitement des métadonnées textuelles pour extraire les caractéristiques des films.
@@ -14,7 +14,10 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 * **SVD (Singular Value Decomposition) :** Utilisation de la factorisation de matrice pour le filtrage collaboratif et la prédiction de préférences.
 * **Stack :** Python, Scikit-Learn, Pandas, DuckDb.
 
-**[Accéder au Code sur GitHub](https://github.com/BYRic-F/project_reco_movie_streamlit.git)** 🚀 **[Tester l'application sur Streamlit](https://byric-f-project-reco-movie-streamlit-app-3pm0kb.streamlit.app/)**
+**[Accéder au Code sur GitHub](https://github.com/BYRic-F/project_reco_movie_streamlit.git)** 
+
+**[Tester l'application sur Streamlit](https://byric-f-project-reco-movie-streamlit-app-3pm0kb.streamlit.app/)**
+
 ---
 
 ## Stack technique
@@ -28,7 +31,7 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 
 ---
 
-## Autres Projets Réalisés
+## Autres projets réalisés
 
 ### [Salifort Motors — HR Analytics (Python)](https://github.com/BYRic-F/salifort-motors-hr-analytics.git)
 * **Objectif :** Prédire l'attrition des employés à l'aide de modèles Random Forest.
@@ -44,7 +47,7 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 
 ---
 
-## Parcours & Certifications
+## Parcours & certifications
 * **Wild Code School :** Formation intensive de Data Analyst (En cours).
 * **Google Data Analytics :** Certification professionnelle obtenue.
 
