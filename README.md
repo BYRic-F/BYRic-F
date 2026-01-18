@@ -33,6 +33,15 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 
 ## Autres projets réalisés
 
+### [Projet en cours : Détection de Fraudes en temps réel] (Python/Docker/BigQuery](https://github.com/kenjivictor/projet_fraude_cb.git)
+## 🚧 État d'avancement (Roadmap)
+- [x] Conteneurisation Docker & Orchestration (Docker-Compose)
+- [x] Ingestion Streaming (Simulateur haute vitesse)
+- [x] Détection en temps réel (FastAPI + XGBoost)
+- [ ] **En cours :** Implémentation de **Redis** comme buffer de persistence.
+- [ ] **Prochaine étape :** Déversement vers **BigQuery** et Monitoring **Grafana**.
+- [ ] **Vision finale :** Pipeline de réentraînement automatique via **Airflow**.
+
 ### [Salifort Motors — HR Analytics (Python)](https://github.com/BYRic-F/salifort-motors-hr-analytics.git)
 * **Objectif :** Prédire l'attrition des employés à l'aide de modèles Random Forest.
 * **Analyse :** Identification des seuils de surcharge de travail (250h+/mois) et étude de l'impact de l'ancienneté sur les départs.
