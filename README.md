@@ -33,7 +33,7 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 
 ## Autres projets réalisés
 
-### [Projet en cours : Détection de Fraudes en temps réel (Python/Docker/BigQuery)](https://github.com/kenjivictor/projet_fraude_cb.git)
+### [Projet en cours : Détection de Fraudes en temps réel (Python/Docker/BigQuery)](https://github.com/BYRic-F/projet_fraude_cb)
 * 🚧 **État d'avancement (Roadmap)**
 - [x] Modèle XGBoost avec un Recall de 0.87 pour 0.17% de fraudes dans le dataset
 - [x] Conteneurisation Docker & Orchestration (Docker-Compose)
