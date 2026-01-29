@@ -40,9 +40,10 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 - [x] Ingestion Streaming (Simulateur haute vitesse)
 - [x] Détection en temps réel (FastAPI + XGBoost)
 - [x] Application Streamlit afin d'afficher les différentes fraudes
-- [ ] **En cours :** Implémentation de **Redis** comme buffer de persistence.
-- [ ] **Prochaine étape :** Déversement vers **BigQuery** et Monitoring **Grafana**.
-- [ ] **Vision finale :** Pipeline de réentraînement automatique via **Airflow**.
+- [x] Implémentation de **Redis** comme buffer de persistence.
+- [ ] **En cours :** Déversement vers **BigQuery** et Monitoring **Grafana**.
+- [x] **Vision finale :** Pipeline de réentraînement automatique via **Airflow**.
+- [ ] **En cours :** Intégration de l'EDA dans streamlit
 
 ### [Salifort Motors — HR Analytics (Python)](https://github.com/BYRic-F/salifort-motors-hr-analytics.git)
 * **Objectif :** Prédire l'attrition des employés à l'aide de modèles Random Forest.
