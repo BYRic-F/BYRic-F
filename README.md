@@ -6,10 +6,9 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 
 ---
 
-## Projet majeur : Système de recommandation de films
+## [Projet majeur : Système de recommandation de films](https://github.com/BYRic-F/projet_fraude_cb)
 *Le projet le plus complet de mon cursus à la Wild Code School.*
 
-## [Projet majeur : Système de recommandation de films](https://github.com/BYRic-F/projet_fraude_cb)
 * 🚧 **État d'avancement (Roadmap)**
 - [x] Modèle XGBoost avec un Recall de 0.87 pour 0.17% de fraudes dans le dataset
 - [x] Conteneurisation Docker & Orchestration (Docker-Compose)
@@ -79,7 +78,8 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 
 ### [Système de recommandation de films](https://github.com/BYRic-F/project_reco_movie_streamlit.git)
 
-**[Tester l'application sur Streamlit](https://byric-f-project-reco-movie-streamlit-app-3pm0kb.streamlit.app/)**
+**Lien pour tester l'application :**
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://byric-f-project-reco-movie-streamlit-app-3pm0kb.streamlit.app/)
 
 * **Natural Language Processing (NLP) :** Traitement des métadonnées textuelles pour extraire les caractéristiques des films.
 * **K-Nearest Neighbors (k-NN) :** Implémentation d'algorithmes de plus proches voisins pour la recommandation basée sur la similarité.
