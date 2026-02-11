@@ -6,7 +6,7 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 
 ---
 
-## [Système de Détection de Fraude en Temps Réel (MLOps)](https://github.com/BYRic-F/projet_fraude_cb)
+## Projet majeur : [Système de Détection de Fraude en Temps Réel (MLOps)](https://github.com/BYRic-F/projet_fraude_cb)
 *L'architecture la plus avancée de mon cursus : une solution end-to-end de détection et d'auto-apprentissage.*
 
 ### Réalisations Techniques
