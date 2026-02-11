@@ -6,7 +6,7 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 
 ---
 
-## [Projet majeur : Système de recommandation de films](https://github.com/BYRic-F/projet_fraude_cb)
+## [Projet majeur : Détection de fraudes bancaires en temps réel](https://github.com/BYRic-F/projet_fraude_cb)
 *Le projet le plus complet de mon cursus à la Wild Code School.*
 
 * 🚧 **État d'avancement (Roadmap)**
