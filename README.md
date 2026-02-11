@@ -9,14 +9,17 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 ## Projet majeur : Système de recommandation de films
 *Le projet le plus complet de mon cursus à la Wild Code School.*
 
-* **Natural Language Processing (NLP) :** Traitement des métadonnées textuelles pour extraire les caractéristiques des films.
-* **K-Nearest Neighbors (k-NN) :** Implémentation d'algorithmes de plus proches voisins pour la recommandation basée sur la similarité.
-* **SVD (Singular Value Decomposition) :** Utilisation de la factorisation de matrice pour le filtrage collaboratif et la prédiction de préférences.
-* **Stack :** Python, Scikit-Learn, Pandas, DuckDb.
-
-**[Accéder au code sur GitHub](https://github.com/BYRic-F/project_reco_movie_streamlit.git)** 
-
-**[Tester l'application sur Streamlit](https://byric-f-project-reco-movie-streamlit-app-3pm0kb.streamlit.app/)**
+## [Projet majeur : Système de recommandation de films](https://github.com/BYRic-F/projet_fraude_cb)
+* 🚧 **État d'avancement (Roadmap)**
+- [x] Modèle XGBoost avec un Recall de 0.87 pour 0.17% de fraudes dans le dataset
+- [x] Conteneurisation Docker & Orchestration (Docker-Compose)
+- [x] Ingestion Streaming (Simulateur haute vitesse)
+- [x] Détection en temps réel (FastAPI + XGBoost)
+- [x] Application Streamlit afin d'afficher les différentes fraudes
+- [x] Implémentation de **Redis** comme buffer de persistence.
+- [ ] **En cours :** Déversement vers **BigQuery** et Monitoring **Grafana**.
+- [x] **Vision finale :** Pipeline de réentraînement automatique via **Airflow**.
+- [ ] **En cours :** Intégration de l'EDA dans streamlit
 
 ---
 
@@ -74,7 +77,7 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 
 ## Autres projets réalisés
 
-## [Système de recommandation de films](https://github.com/BYRic-F/project_reco_movie_streamlit.git)
+### [Système de recommandation de films](https://github.com/BYRic-F/project_reco_movie_streamlit.git)
 
 **[Tester l'application sur Streamlit](https://byric-f-project-reco-movie-streamlit-app-3pm0kb.streamlit.app/)**
 
@@ -82,18 +85,6 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 * **K-Nearest Neighbors (k-NN) :** Implémentation d'algorithmes de plus proches voisins pour la recommandation basée sur la similarité.
 * **SVD (Singular Value Decomposition) :** Utilisation de la factorisation de matrice pour le filtrage collaboratif et la prédiction de préférences.
 * **Stack :** Python, Scikit-Learn, Pandas, DuckDb.
-
-### [Projet en cours : Détection de Fraudes en temps réel (Python/Docker/BigQuery)](https://github.com/BYRic-F/projet_fraude_cb)
-* 🚧 **État d'avancement (Roadmap)**
-- [x] Modèle XGBoost avec un Recall de 0.87 pour 0.17% de fraudes dans le dataset
-- [x] Conteneurisation Docker & Orchestration (Docker-Compose)
-- [x] Ingestion Streaming (Simulateur haute vitesse)
-- [x] Détection en temps réel (FastAPI + XGBoost)
-- [x] Application Streamlit afin d'afficher les différentes fraudes
-- [x] Implémentation de **Redis** comme buffer de persistence.
-- [ ] **En cours :** Déversement vers **BigQuery** et Monitoring **Grafana**.
-- [x] **Vision finale :** Pipeline de réentraînement automatique via **Airflow**.
-- [ ] **En cours :** Intégration de l'EDA dans streamlit
 
 ### [Salifort Motors — HR Analytics (Python)](https://github.com/BYRic-F/salifort-motors-hr-analytics.git)
 * **Objectif :** Prédire l'attrition des employés à l'aide de modèles Random Forest.
