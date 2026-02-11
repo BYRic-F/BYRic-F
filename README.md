@@ -20,6 +20,7 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 
 ### Architecture du Pipeline
 
+![Pipeline Architecture](images/pipeline2.png)
 
 ---
 
