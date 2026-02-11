@@ -50,7 +50,7 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 
 * **Enrichissement de données :** Géocodage et manipulation de données via **API**.
 
-* **Data Stack :** Maîtrise de **Pandas, NumPy, Scikit-Learn et DuckDb** pour le traitement de données volumineuses.
+* **Data Stack :** Maîtrise de **Pandas, NumPy, Streamlit, Scikit-Learn et DuckDb** pour le traitement de données volumineuses.
 
 ### 4. Engineering & Configuration
 
