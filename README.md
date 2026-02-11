@@ -6,19 +6,20 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 
 ---
 
-## [Projet majeur : Détection de fraudes bancaires en temps réel](https://github.com/BYRic-F/projet_fraude_cb)
-*Le projet le plus complet de mon cursus à la Wild Code School.*
+## [Système de Détection de Fraude en Temps Réel (MLOps)](https://github.com/BYRic-F/projet_fraude_cb)
+*L'architecture la plus avancée de mon cursus : une solution end-to-end de détection et d'auto-apprentissage.*
 
-* 🚧 **État d'avancement (Roadmap)**
-- [x] Modèle XGBoost avec un Recall de 0.87 pour 0.17% de fraudes dans le dataset
-- [x] Conteneurisation Docker & Orchestration (Docker-Compose)
-- [x] Ingestion Streaming (Simulateur haute vitesse)
-- [x] Détection en temps réel (FastAPI + XGBoost)
-- [x] Application Streamlit afin d'afficher les différentes fraudes
-- [x] Implémentation de **Redis** comme buffer de persistence.
-- [ ] **En cours :** Déversement vers **BigQuery** et Monitoring **Grafana**.
-- [x] **Vision finale :** Pipeline de réentraînement automatique via **Airflow**.
-- [ ] **En cours :** Intégration de l'EDA dans streamlit
+### Réalisations Techniques
+- [x] **Modèle XGBoost Haute Performance** : Recall de **0.87** sur un dataset critique (0.17% de fraudes).
+- [x] **Architecture Temps Réel** : Ingestion asynchrone via **FastAPI** et bufferisation **Redis** pour une résilience maximale.
+- [x] **Stack MLOps** : Orchestration complète du cycle de vie du modèle avec **Prefect** (ETL & Automation).
+- [x] **Data Warehouse** : Archivage et requêtage massif sur **Google BigQuery**.
+- [x] **Observabilité Totale** : Monitoring technique (**Grafana/Prometheus**) et pilotage métier (**Streamlit**).
+- [x] **Conteneurisation** : Déploiement multi-services orchestré via **Docker Compose**.
+- [x] **Auto-Retrain** : Pipeline de réentraînement automatique déclenché dynamiquement par le volume de données.
+
+### Architecture du Pipeline
+
 
 ---
 
