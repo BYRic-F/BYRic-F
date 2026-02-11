@@ -74,6 +74,15 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 
 ## Autres projets réalisés
 
+## [Système de recommandation de films](https://github.com/BYRic-F/project_reco_movie_streamlit.git)
+
+**[Tester l'application sur Streamlit](https://byric-f-project-reco-movie-streamlit-app-3pm0kb.streamlit.app/)**
+
+* **Natural Language Processing (NLP) :** Traitement des métadonnées textuelles pour extraire les caractéristiques des films.
+* **K-Nearest Neighbors (k-NN) :** Implémentation d'algorithmes de plus proches voisins pour la recommandation basée sur la similarité.
+* **SVD (Singular Value Decomposition) :** Utilisation de la factorisation de matrice pour le filtrage collaboratif et la prédiction de préférences.
+* **Stack :** Python, Scikit-Learn, Pandas, DuckDb.
+
 ### [Projet en cours : Détection de Fraudes en temps réel (Python/Docker/BigQuery)](https://github.com/BYRic-F/projet_fraude_cb)
 * 🚧 **État d'avancement (Roadmap)**
 - [x] Modèle XGBoost avec un Recall de 0.87 pour 0.17% de fraudes dans le dataset
