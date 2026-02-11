@@ -22,13 +22,49 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 
 ## Stack technique
 
-* **Machine Learning :** NLP, Algorithmes de recommandation (k-NN, SVD), et modèles de classification (Random Forest, Decision Tree).
-* **Python & Environnement :** Gestion moderne des projets avec l'outil **`uv`**.
-* **Configuration Système :** Utilisation de VS Code et de Github.
-* **Business Intelligence :** Architecture SQL avancée incluant des CTE et fonctions de fenêtrage (MySQL).
-* **Modélisation BI :** Conception de rapports interactifs sous Power BI avec une architecture en **Schéma en étoile**.
-* **Analyse R :** Reporting analytique reproductible et visualisations avancées avec `ggplot2`.
+### 1. Machine Learning & NLP
 
+* **Systèmes de Recommandation :** Filtrage collaboratif et basé sur le contenu via SVD et k-NN (projet_reco_movie_streamlit).
+
+* **Classification & Robustesse :** Expertise sur XGBoost, Random Forest et Decision Trees.
+
+* **Traitement du déséquilibre :** Gestion des datasets asymétriques optimisation du Recall (projet_fraude_cb).
+
+* **NLP :** Analyse de sentiments et Topic Modeling (LDA/NMF).
+
+### 2. MLOps & Mise en Production
+
+* **Cycle de vie (Model Registry) :** Versioning et suivi des expérimentations avec MLflow.
+
+* **Serving :** Déploiement de modèles via des API REST avec FastAPI.
+
+* **Monitoring :** Création de dashboards de performance et de suivi de drift avec Streamlit. S
+
+### 3. Python & Environnement
+
+* **Gestion de projet :** Utilisation avancée de uv pour une gestion performante des dépendances et environnements.
+
+* **Data Stack :** Maîtrise de Pandas, NumPy, Scikit-Learn et DuckDb pour le traitement de données volumineuses.
+
+### 4. Engineering & Configuration
+
+* **Conteneurisation :** Isolation des services et orchestration locale avec Docker et Docker Compose.
+
+* **Versionnage :** Workflow Git collaboratif via GitHub.
+
+* **IDE :** Optimisation du développement sous VS Code.
+
+### 5. Business Intelligence & SQL
+
+* **SQL Avancé :** Maîtrise des CTE, fonctions de fenêtrage et optimisation de requêtes (MySQL, BigQuery).
+
+* **Analytics Engineering :** Transformation de données et qualité avec dbt et DuckDB.
+
+### 6. Modélisation & Dataviz
+
+**BI Interactive :** Conception de rapports Power BI basés sur un Schéma en étoile et calculs complexes en DAX.
+
+Analyse R : Reporting statistique et dataviz avancée avec ggplot2 pour la recherche reproductible.
 ---
 
 ## Autres projets réalisés
