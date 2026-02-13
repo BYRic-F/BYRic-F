@@ -10,7 +10,7 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 *L'architecture la plus avancée de mon cursus : une solution end-to-end de détection et d'auto-apprentissage.*
 
 ### Réalisations Techniques
-- [x] **Modèle XGBoost Haute Performance** : Recall de **0.87** sur un dataset critique (0.17% de fraudes).
+- [x] **Modèle XGBoost Haute Performance** : Recall de **0.87** sur un dataset critique (0.13% de fraudes).
 - [x] **Architecture Temps Réel** : Ingestion asynchrone via **FastAPI** et bufferisation **Redis** pour une résilience maximale.
 - [x] **Stack MLOps** : Orchestration complète du cycle de vie du modèle avec **Prefect** (ETL & Automation).
 - [x] **Data Warehouse** : Archivage et requêtage massif sur **Google BigQuery**.
