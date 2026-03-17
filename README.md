@@ -74,9 +74,26 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 
 * **BI Interactive :** Conception de rapports Power BI basés sur un Schéma en étoile et calculs complexes en **DAX**.
 
+### 7. IA Générative & LLMs (GenAI)
+
+* **Intégration de Modèles :** Exploitation d'APIs de pointe (**Gemini**) pour le traitement de données non structurées.
+* **Prompt Engineering :** Conception de prompts complexes et structurés pour la classification automatique (ex: mapping de codes NAF) et l'extraction d'entités.
+* **Automatisation Intelligente :** Développement d'agents capables de transformer des requêtes métier en actions techniques (IA Prospector).
+
 ---
 
 ## Autres projets réalisés
+
+### [IA Prospector — Solution d'enrichissement CRM](https://github.com/BYRic-F/Insee_prospector_cloud.git)
+
+**Lien pour tester l'application :**
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://inseeprospectorcloud.streamlit.app/)
+
+*Ce projet a été développé pour l'entreprise RH Performances afin d'automatiser l'extraction de prospects qualifiés via l'API Sirene.*
+
+* **Intelligence Artificielle :** Utilisation de **Gemini 3.1 Flash** pour la classification NAF et l'enrichissement OSINT.
+* **Précision Industrielle :** Filtrage dynamique par effectifs, état administratif et nomenclature NAF 2008.
+* **UX/UI :** Interface de pilotage sous **Streamlit** avec exports CSV et monitoring des appels (liens `tel:`).
 
 ### [Système de recommandation de films](https://github.com/BYRic-F/project_reco_movie_streamlit.git)
 
@@ -103,7 +120,7 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 ---
 
 ## Parcours & certifications
-* **Wild Code School :** Formation intensive de Data Analyst (En cours).
+* **Wild Code School :** Certification niveau 6 (Bac +3/4) obtenue en Mars 2026
 * **Google Data Analytics :** Certification professionnelle obtenue.
 
 ---
