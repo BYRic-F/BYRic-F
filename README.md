@@ -68,7 +68,7 @@ Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine
 
 * **SQL Avancé :** Maîtrise des CTE, fonctions de fenêtrage et optimisation de requêtes **(MySQL, BigQuery)**.
 
-* **Analytics Engineering :** Transformation de données et qualité avec **dbt et DuckDB**.
+* **Analytics Engineering :** Transformation de données et qualité avec **DuckDB**.
 
 ### 6. Modélisation & Dataviz
 
