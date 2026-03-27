@@ -1,7 +1,5 @@
 # 👋 Bonjour, moi c'est Frédéric Bayen !
 
- **Data Analyst en formation à la Wild Code School**
-
 Expertise polyvalente alliant la **puissance des modèles prédictifs** (Machine Learning, NLP) à la **clarté des solutions de visualisation** (Dashboards, Reporting). Mon objectif est de transformer des données brutes en outils d'aide à la décision stratégiques et visuels.
 
 ---
